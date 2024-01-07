@@ -1,8 +1,6 @@
 <h1 align="center">Hey there, I'm Sarthak 👋</h1>
 <h3 align="center">A Passionate SPPU Computer Engineering Student</h3>
 
-<img align="right" alt="coding" width="400" src="https://rapidapi.com/blog/wp-content/uploads/2017/01/octocat.gif">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakrk&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakrk" /> </p>
 
 - 📫 How to reach me **kataresarthak001@gmail.com**
