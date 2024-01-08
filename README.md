@@ -1,4 +1,9 @@
-<h1 align="center">Hey there, I'm Sarthak 👋</h1>
+<html>
+
+<h1>Hey there , I'm <a href="https://github.com/SarthakRK">Sarthak</a> 
+<img src="hi.gif" alt="" width="100px" style="position:relative;top:20px; left:10px; max-width: 50%;">
+</h1>
+
 <h3 align="center">A Passionate SPPU Computer Engineering Student.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakrk&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakrk" /> </p>
