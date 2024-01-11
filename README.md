@@ -4,19 +4,19 @@
 <img src="hi.gif" alt="" width="100px" style="position:relative;top:20px; left:10px; max-width: 50%;">
 </h1>
 
-<h3 align="center">A Passionate SPPU Computer Engineering Student</h3>
+<!--<h3 align="center">A Passionate SPPU Computer Engineering Student</h3>-->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakrk&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakrk" /> </p>
 
-- 🌱 I’m currently learning **DSA.**
+- 🌱 I’m Currently Learning **DSA**
 
-- 💬 Ask me about **Python, C++.**
+- 💬 Ask Me About **Python, C++**
 
-- 📫 How to reach me **kataresarthak001@gmail.com**
+- 📫 How To Reach Me **kataresarthak001@gmail.com**
 
-- ⚡ Fun fact **My code once threw an error just to test if I'm paying attention. It passed 😅**
+- ⚡ Fun Fact **My Code Once Threw An Error Just To Test If I'm Paying Attention. It Passed 😅**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with Me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sarthak katare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak katare" height="30" width="40" /></a>
 <a href="https://fb.com/sarthak katare patil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sarthak katare patil" height="30" width="40" /></a>
