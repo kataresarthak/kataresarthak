@@ -14,8 +14,6 @@
 
 - 📫 How To Reach Me **kataresarthak001@gmail.com**
 
-- ⚡ Fun Fact **My Code Once Threw An Error Just To Test If I'm Paying Attention. It Passed 😅**
-
 <h3 align="left">Connect with me :</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sarthak katare" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sarthak katare" height="30" width="40" /></a>
