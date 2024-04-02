@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakrk&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakrk" /> </p>
 
-- 🌱 I’m Currently Learning **DSA**
+<!-- 🌱 I’m Currently Learning **DSA**-->
 
-- 💬 Ask Me About **Python, C++**
+- 💬 Ask Me About **C, C++, Python,**
 
 - 📫 How To Reach Me **kataresarthak001@gmail.com**
 
