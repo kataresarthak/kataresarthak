@@ -10,7 +10,7 @@
 
 <!-- 🌱 I’m Currently Learning **DSA**-->
 
-- 💬 Ask Me About **C, C++, Python,**
+- 💬 Ask Me About Anything...
 
 - 📫 How To Reach Me **kataresarthak001@gmail.com**
 
