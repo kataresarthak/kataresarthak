@@ -13,7 +13,7 @@
 <a href="mailto:kataresarthak001@gmail.com" target="_blank" ><img
         src="https://img.shields.io/badge/@kataresarthak@gmail.com-30302f?style=flat&logo=gmail" alt=""></a>
 <a href="https://instagram.com/sarthak_katare_patil?igshid=OGQ5ZDc2ODk2ZA==" target="_blank" ><img src="https://img.shields.io/badge/@sarthak_katare_patil-30302f?style=flat&logo=instagram" alt=""></a>
-<a href="http://t.me/Sk_patil001"  target="_blank" ><img src="https://img.shields.io/badge/sarthakrk-30302f?style=flat&logo=telegram" alt=""></a> 
+<a href="http://t.me/sarthakrk"  target="_blank" ><img src="https://img.shields.io/badge/sarthakrk-30302f?style=flat&logo=telegram" alt=""></a> 
 
 
 
