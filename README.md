@@ -33,7 +33,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kataresarthak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
 </div>
 
-<h2>GitHub Profile Trophy 🏆</h2>
+<h2>GitHub Profile Trophies 🏆</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kataresarthak&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
 <!--
