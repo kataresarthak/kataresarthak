@@ -1,11 +1,11 @@
 <html>
 
-<h1>Hey there , I'm <a href="https://github.com/AryanJ2004">Sarthak</a> 
+<h1>Hey there , I'm <a href="https://github.com/kataresarthak">Sarthak</a> 
 <img src="hi.gif" alt="" width="100px" style="position:relative;top:20px; left:10px; max-width: 50%;">
 
-<h2>📌 Ask Me Anything </h2>
+<!--!<h2>📌 Ask Me Anything </h2>
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20Me-Queries-1abc9c.svg)](https://github.com/kataresarthak/kataresarthak/issues/new) ![](https://komarev.com/ghpvc/?username=kataresarthak) 
+[![Ask Me Anything !](https://img.shields.io/badge/Ask%20Me-Queries-1abc9c.svg)](https://github.com/kataresarthak/kataresarthak/issues/new) ![](https://komarev.com/ghpvc/?username=kataresarthak)-->
 
 <h2>🌐 Social Handle </h2>
 <a href="https://www.linkedin.com/in/sarthak-katare-547809282" target="_blank" ><img
