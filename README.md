@@ -5,7 +5,7 @@
 
 <!--!<h2>📌 Ask Me Anything </h2>
 
-[![Ask Me Anything !](https://img.shields.io/badge/Ask%20Me-Queries-1abc9c.svg)](https://github.com/kataresarthak/kataresarthak/issues/new) ![](https://komarev.com/ghpvc/?username=kataresarthak)-->
+<!--![![Ask Me Anything !](https://img.shields.io/badge/Ask%20Me-Queries-1abc9c.svg)](https://github.com/kataresarthak/kataresarthak/issues/new) ![](https://komarev.com/ghpvc/?username=kataresarthak)-->
 
 <h2>🌐 Social Handle </h2>
 <a href="https://www.linkedin.com/in/sarthak-katare-547809282" target="_blank" ><img
