@@ -41,6 +41,7 @@
 <h2>GitHub Profile Trophies 🏆</h2>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kataresarthak&row=1&margin-w=40)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--
 <h2>🖇️ Languages</h2>
 
