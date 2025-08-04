@@ -8,6 +8,7 @@
 <!--![![Ask Me Anything !](https://img.shields.io/badge/Ask%20Me-Queries-1abc9c.svg)](https://github.com/kataresarthak/kataresarthak/issues/new) ![](https://komarev.com/ghpvc/?username=kataresarthak)-->
 
 <h2>🌐 Social Handle </h2>
+
 <a href="https://www.linkedin.com/in/sarthak-katare-547809282" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sarthak_Katare-30302f?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:kataresarthak001@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/kataresarthak001@gmail.com-30302f?style=flat&logo=gmail" alt=""></a>
 <a href="https://instagram.com/the.sarthak_katare?igshid=OGQ5ZDc2ODk2ZA==" target="_blank" ><img src="https://img.shields.io/badge/the.sarthak_katare-30302f?style=flat&logo=instagram" alt=""></a>
@@ -26,7 +27,16 @@
 
 <h2>🖇️ Languages</h2>
 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) ![HTML](https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![HTML](https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+![EJS](https://img.shields.io/badge/EJS-333?style=for-the-badge&logo=ejs&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 <div style="text-align:center;">
          <hr style="height:1px;">
    <!--<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kataresarthak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
