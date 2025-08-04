@@ -8,7 +8,9 @@
 <!--![![Ask Me Anything !](https://img.shields.io/badge/Ask%20Me-Queries-1abc9c.svg)](https://github.com/kataresarthak/kataresarthak/issues/new) ![](https://komarev.com/ghpvc/?username=kataresarthak)-->
 
 <h2>🌐 Social Handle </h2>
-<a href="https://www.linkedin.com/in/sarthak-katare-547809282" target="_blank" ><img src="https://img.shields.io/badge/kataresarthak-30302f?style=flat&logo=linkedin" alt=""></a>
+<a href="https://www.linkedin.com/in/sarthak-katare-547809282" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-sarthak_katare-30302f?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 <a href="mailto:kataresarthak001@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/kataresarthak001@gmail.com-30302f?style=flat&logo=gmail" alt=""></a>
 <a href="https://instagram.com/the.sarthak_katare?igshid=OGQ5ZDc2ODk2ZA==" target="_blank" ><img src="https://img.shields.io/badge/the.sarthak_katare-30302f?style=flat&logo=instagram" alt=""></a>
 <a href="http://t.me/sarthakrk"  target="_blank" ><img src="https://img.shields.io/badge/sarthakrk-30302f?style=flat&logo=telegram" alt=""></a> 
