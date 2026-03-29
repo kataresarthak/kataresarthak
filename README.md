@@ -1,7 +1,6 @@
 <html>
 
 <h1>Hey there , I'm <a href="https://github.com/kataresarthak">Sarthak</a> 
-<img src="hi.gif" alt="" width="100px" style="position:relative;top:20px; left:10px; max-width: 50%;">
 
 <!--!<h2>📌 Ask Me Anything </h2>
 
