@@ -12,15 +12,15 @@
 <a href="https://www.linkedin.com/in/sarthak-katare-547809282" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sarthak_Katare-30302f?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:kataresarthak001@gmail.com" target="_blank" ><img src="https://img.shields.io/badge/kataresarthak001@gmail.com-30302f?style=flat&logo=gmail" alt=""></a>
 <a href="https://instagram.com/the.sarthak_katare?igshid=OGQ5ZDc2ODk2ZA==" target="_blank" ><img src="https://img.shields.io/badge/the.sarthak__katare-30302f?style=flat&logo=instagram" alt=""></a>
-<a href="http://t.me/sarthakrk"  target="_blank" ><img src="https://img.shields.io/badge/sarthakrk-30302f?style=flat&logo=telegram" alt=""></a> 
-
 
 
 <h2>💻 Tech Stuff </h2>
 
-[![Sololearn](https://img.shields.io/badge/Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/28793331)
+<!--[![Sololearn](https://img.shields.io/badge/Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)](https://www.sololearn.com/profile/28793331)-->
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/kataresarthak)
 [![LeetCode](https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06)](https://leetcode.com/kataresarthak)
+[![Codechef](https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com)
+[![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com)
 [![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)](https://visualstudio.microsoft.com)
 <!--[![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)](https://developer.android.com/studio)-->
 <!--[![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/sarthakrk001)-->
@@ -32,8 +32,9 @@
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-FF4500?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 <div style="text-align:center;">
