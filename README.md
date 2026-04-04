@@ -36,14 +36,14 @@
 ![Node](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-<div style="text-align:center;">
+<!-- <div style="text-align:center;">
          <hr style="height:1px;">
    <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=kataresarthak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats">
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=kataresarthak&theme=tokyonight&hide_border=false" alt="GitHub Streak">
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kataresarthak&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages">
-</div>
+</div> -->
 
 <!-- <h2>GitHub Profile Trophies 🏆</h2>
 
